@@ -18,7 +18,7 @@ export default {
   data() {
     return {
       thecardtitle: "Child Component!",
-      thecardbody: "I'm just a child."
+      thecardbody: "I'm just a child.&&&"
     };
   },
   methods: {
